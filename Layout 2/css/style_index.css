@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #344050;
+}
+
+.container {
+	width: 500px;
+	height: 357px;
+	background-color: #303949;
+	margin: 100px auto;
+	border-top: 6px solid #81d43f;
+}
+
+.container_text {
+	text-align: center;
+	margin: 37px 0 0 0;
+	color: #fff;
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+}
+
+.container_text h3 {
+	margin: 0 0 15px 0;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.container_text p {
+	font-size: 12px;
+	color: #ccc;
+}
+
+.price {
+	width: 402px;
+	height: 37px;
+	margin: 40px auto;
+}
+
+.price a {
+	padding: 10px;
+	background-color: #212833;
+	color: #fff;
+	border-radius: 5px;
+	text-decoration: none;
+	font-weight: bold;
+	margin: 3px;
+}
+
+.price a:hover {
+	background-color: #81d43f;
+}
+
+.container_form {
+	width: 400px;
+	height: 132px;
+	margin: -15px auto;
+}
+
+form input {
+	background-color: #212833;
+	color: #ccc;
+	outline: none;
+	border: none;
+	margin: 0 0 10px 0;
+	text-indent: 10px;
+	height: 37px;
+}
+
+form input:nth-child(1) {
+	width: 400px;
+}
+
+form input:nth-child(2) {
+	width: 265px;
+	margin: 0 6px 0 0;
+}
+
+form input:nth-child(3) {
+	width: 66px;
+	margin: 0 6px 0 0;
+}
+
+form input:nth-child(4) {
+	width: 49px;
+}
+
+form input:nth-child(5) {
+	width: 400px;
+	cursor: pointer;
+	color: #ccc;
+}
+
+form input:nth-child(5):hover {
+	width: 400px;
+	background-color: #81d43f;
+}
