@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.menu {
+	width: 100%;
+	height: 85px;
+	background-color: #149abb;
+}
+
+.menu .logo {
+	width: 150px;
+	height: 40px;
+	background-image: url(../images/logo.png);
+	position: absolute;
+	margin: 20px 0 0 110px;
+}
+
+.menu .container_icon {
+	width: 125px;
+	height: 34px;
+	float: right;
+	margin: 23px 251px 0 0;
+}
+
+.container_icon a {
+	width: 50px;
+	height: 34px;
+	background-color: #fff;
+	display: inline-block;
+	margin: 0 3px 0 7px;
+}
+
+.icon_f {
+	background-image: url(../images/ic1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.icon_s {
+	background-image: url(../images/ic2.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.clean {
+	width: 1px;
+	height: 18px;
+	background-color: #60b9ce;
+	float: right;
+	margin: -25px 230px 0 26px;
+}
+
+.signUp {
+	float: right;
+	width: 91px;
+	height: 34px;
+	margin: -35px 90px 0 0px;
+	border: 3px solid #aed8e4;
+	border-radius: 3px;
+}
+
+.signUp a {
+	text-decoration: none;
+	color: #c7e6ee;
+	text-align: center;
+	display: block;
+}
+
+.container_bg {
+	width: 640px;
+	height: 354px;
+	background-color: #000;
+	margin: 60px auto;
+	background-image: url(../images/img.png);
+}
+
+.download {
+	width: 375px;
+	height: 36px;
+	margin: 0 auto;
+}
+
+.download a {
+	width: 136px;
+	height: 36px;
+	display: inline-block;
+	margin: 0 40px 0 0;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+}
+
+.down_f {
+	background-color: #149abb;
+}
+
+.down_s {
+	background-color: #78cc0f;
+}
+
+
+
+
+
+
+
+
+
